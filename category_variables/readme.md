@@ -1,4 +1,4 @@
-**Dataset: **
+**Dataset**
 1. Cat-in-the-dat from Categorical Features Encoding Challenge from Kaggle  
 https://www.kaggle.com/c/cat-in-the-dat-iidata
 2. Adult Census Income
