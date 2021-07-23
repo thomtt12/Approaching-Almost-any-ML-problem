@@ -11,5 +11,9 @@ https://www.kaggle.com/uciml/adult-census-income
 
 create_folds.py:  split data into k-equal part using StratifiedKFold (or KFold) from scikit-learn. Output is file data_folds.csv
 
-**Running**
+**Steps**
+- Split data into training and validation given a fold number
+- Handles NaN values
+- Data: **One-hot encoding** (ohe) or **Label encoding** (lbl) to all data
+- Model: train using **Logistic Regression** (logres) or **Random Forest** (rf)...
 
