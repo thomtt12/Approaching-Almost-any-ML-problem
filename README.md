@@ -9,7 +9,7 @@ https://www.kaggle.com/uciml/adult-census-income
 
 **Source code**
 
-create_folds.py:  split data into k-equal part using StratifiedKFold (or KFold) from scikit-learn. Output is file _data__fold.csv
+create_folds.py:  split data into k-equal part using StratifiedKFold (or KFold) from scikit-learn. Output is file _data__folds.csv
 
 **Running**
 
