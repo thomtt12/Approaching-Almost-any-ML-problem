@@ -6,6 +6,8 @@ Reimplement code in book "Approaching Almost (any) ML problem"
 https://www.kaggle.com/c/cat-in-the-dat-iidata
 2. Adult Census Income
 https://www.kaggle.com/uciml/adult-census-income
+3. Mobile-price-classification
+https://www.kaggle.com/iabhishekofficial/mobile-price-classification
 
 **Source code**
 
