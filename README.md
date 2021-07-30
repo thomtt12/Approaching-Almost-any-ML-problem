@@ -8,7 +8,8 @@ https://www.kaggle.com/c/cat-in-the-dat-iidata
 https://www.kaggle.com/uciml/adult-census-income
 3. Mobile-price-classification
 https://www.kaggle.com/iabhishekofficial/mobile-price-classification
-
+4. siim 
+https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/data
 **Source code**
 
 create_folds.py:  split data into k-equal part using StratifiedKFold (or KFold) from scikit-learn. Output is file data_folds.csv
